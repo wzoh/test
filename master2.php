@@ -1,5 +1,5 @@
 <?
 
-echo "master2ÄÚÈÝ";
+echo "ä¿®æ”¹master2";
 
 ?>
