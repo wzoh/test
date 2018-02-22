@@ -1,4 +1,6 @@
-<?
+<?php
 
-echo "修改master2";
+echo 123;
+echo 888;
 
+?>
